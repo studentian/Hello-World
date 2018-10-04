@@ -1,2 +1,2 @@
 # Hello-World
-First repository. Commit changes was made. Additional changes made. Even more changes being made.
+This is a test respository created directly on GitHub. The Project named HelloWorldvs was created on Visual Studio as per course notes. 
